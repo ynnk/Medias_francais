@@ -11,7 +11,7 @@ load csv with botapad https://github.com/padagraph/botapadd
 * **./medias_francais.csv**  entités 
 * **./relations_medias_francais.csv** relations non pondérés
 
-#### import 
+#### Explorer le graph 
 
 https://botapad.padagraph.io/import/igraph.html?bgcolor=EEE&s=https://raw.githubusercontent.com/ynnk/Medias_francais/master/graph.md&vtx_size=1
 
