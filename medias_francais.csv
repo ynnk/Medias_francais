@@ -1,324 +1,330 @@
-@Goupe_personne: #label,%typeLibelle,typeCode,rangChallenges,mediaType,mediaPeriodicite,mediaEchelle,commentaire
-Claude Perdriel,Personne physique,1,359,,,,
-Sophia Publications,Personne morale,2,,,,,
-Groupe Perdriel,Personne morale,2,,,,,
-L'histoire,Média,3,,GPE,Mensuel,,
-Historia,Média,3,,GPE,Mensuel,,
-Challenges,Média,3,,GPE,Hebdomadaire,,
-Sciences & Avenir,Média,3,,GPE,Mensuel,,
-L'Opinion,Média,3,,GPE,Quotidien,,
-Prisa,Personne morale,2,,,,,
-Xavier Niel,Personne physique,1,13,,,,
-Matthieu Pigasse,Personne physique,1,,,,,
-Les Nouvelles Éditions indépendantes,Personne morale,2,,,,,
-Le Nouveau Monde,Personne morale,2,,,,,
-Le Monde libre,Personne morale,2,,,,,
-Le Monde SA,Personne morale,2,,,,,
-L'Obs,Média,3,,GPE,Hebdomadaire,,
-Prier,Média,3,,GPE,Mensuel,,
-M, le magazine du Monde,Média,3,,GPE,Hebdomadaire,,
-Le Monde,Média,3,,GPE,Hebdomadaire,,
-Télérama,Média,3,,GPE,Mensuel,,
-Courrier international,Média,3,,GPE,Hebdomadaire,,
-Le Monde des religions,Média,3,,GPE,Mensuel,,
-La Vie,Média,3,,GPE,Hebdomadaire,,
-Le Monde diplomatique,Média,3,,GPE,Mensuel,,
-Manière de voir,Média,3,,GPE,Bimestriel,,
-Huffingtonpost.fr,Média,3,,Site,,,Pure player
-AOL,Personne morale,2,,,,,
-Huffington Post,Personne morale,2,,,,,
-Les Nouvelles Éditions,Personne morale,2,,,,,
-Radio Nova,Média,3,,Radio,,National,
-Les Inrockuptibles,Média,3,,GPE,Hebdomadaire,,
-Vice.com,Média,3,,Site,,,Pure player
-Les Amis du Monde diplomatique,Personne morale,2,,,,,
-Association Günter-Holzmann,Personne morale,2,,,,,
-Famille Dassault,Personne physique,1,7,,,,
-Groupe Dassault,Personne morale,2,,,,,
-Groupe Figaro,Personne morale,2,,,,,
-Le Figaro,Média,3,,GPE,Quotidien,,
-Figaro Magazine,Média,3,,GPE,Hebdomadaire,,
-Le Particulier,Média,3,,GPE,Mesuel,,
-La Lettre de l'Expansion,Média,3,,GPE,Mensuel,,
-Bernard Arnault,Personne physique,1,1,,,,
-LVMH,Personne morale,2,,,,,
-Le Parisien,Média,3,,GPE,Quotidien,,
-Le Parisien Week-End,Média,3,,GPE,Hebdomadaire,,
-Le Parisien économie,Média,3,,GPE,Hebdomadaire,,
-Aujourd'hui en France,Média,3,,GPE,Quotidien,,
-Groupe Les Échos,Personne morale,2,,,,,
-Les Échos,Média,3,,GPE,Quotidien,,
-Investir,Média,3,,GPE,Hebdomadaire,,
-Investir Magazine,Média,3,,GPE,Mensuel,,
-Les Échos Week-End,Média,3,,GPE,Hebdomadaire,,
-Radio Classique,Média,3,,Radio,National,,
-Famille Bettencourt,Personne physique,1,4,,,,
-Nicolas Beytout,Personne physique,1,,,,,
-Patrick Drahi,Personne physique,1,12,,,,
-Altice,Personne morale,2,,,,,
-Altice France,Personne morale,2,,,,,
-L'Express,Média,3,,GPE,Hebdomadaire,,
-Libération,Média,3,,GPE,Quotidien,,
-NextRadioTV,Personne morale,2,,,,,
-BFM TV,Média,3,,Télévision,,,Gratuit
-RMC Découverte,Média,3,,Télévision,,,Gratuit
-RMC,Média,3,,Radio,,National,
-BFM Business,Média,3,,Radio,,National,
-Numéro 23,Média,3,,Télévision,,,Gratuit
-Arnaud Lagardère,Personne physique,1,361,,,,
-Qatar Investment Authority,Personne morale,2,,,,,
-Lagardère SCA,Personne morale,2,,,,,
-Lagardère Active,Personne morale,2,,,,,
-Le Journal du dimanche,Média,3,,GPE,Hebdomaire,,
-Paris Match,Média,3,,GPE,Hebdomaire,,
-Gulli,Média,3,,Télévision,,,Gratuit
-Europe 1,Média,3,,Radio,,National,
-RFM,Média,3,,Radio,,National,
-Virgin Radio,Média,3,,Radio,,National,
-Vincent Bolloré,Personne physique,1,11,,,,
-Financière de l‘Odet,Personne morale,2,,,,,
-Bolloré,Personne morale,2,,,,,
-CNews matin,Média,3,,GPE,Quotidien,,
-Vivendi,Personne morale,2,,,,,
-Canal +,Média,3,,Télévision,,,Semi-payant
-C8,Média,3,,Télévision,,,Gratuit
-CNews,Média,3,,Télévision,,,Gratuit
-CStar,Média,3,,Télévision,,,Gratuit
-Iskandar Safa,Personne physique,1,81,,,,
-Privinvest,Personne morale,2,,,,,
-Groupe Valmonde,Personne morale,2,,,,,
-Valeurs actuelles,Média,3,,GPE,Hebdomadaire,,
-Mieux vivre votre argent,Média,3,,GPE,Mensuel,,
-Yves de Chaisemartin,Personne physique,1,,,,,
-Daniel Křetínský,Personne physique,1,5,,,,Pour la République tchèque (Daniel Křetínský) : Forbes 2018
-Czech Media Invest,Personne morale,2,,,,,
-Marianne,Média,3,,GPE,Hebdomadaire,,
-François Pinault,Personne physique,1,6,,,,
-Artémis,Personne morale,2,,,,,
-Groupe Sebdo-Le Point,Personne morale,2,,,,,
-Groupe L’Agefi,Personne morale,2,,,,,
-Point de vue,Média,3,,GPE,Hebdomadaire,,
-Le Point,Média,3,,GPE,Hebdomadaire,,
-L'Agefi hebdo,Média,3,,GPE,Hebdomadaire,,
-Famille Mohn,Personne physique,1,39,,,,
-Bertelsmann,Personne morale,2,,,,,
-Gruner + Jahr,Personne morale,2,,,,,
-RTL Group,Personne morale,2,,,,,
-Prisma Media,Personne morale,2,,,,,
-Capital,Média,3,,GPE,Mensuel,,
-Management,Média,3,,GPE,Mensuel,,
-Harvard Business Review,Média,3,,GPE,Bimestriel,,
-Groupe M6,Personne morale,2,,,,,
-M6,Média,3,,Télévision,,,Gratuit
-W9,Média,3,,Télévision,,,Gratuit
-6ter,Média,3,,Télévision,,,Gratuit
-RTL,Média,3,,Radio,National,,
-RTL2,Média,3,,Radio,National,,
-Fun Radio,Média,3,,Radio,National,,
-Georges Ghosn,Personne physique,1,,,,,
-Ghosn Capital,Personne morale,2,,,,,
-VSD,Média,3,,GPE,Mensuel,,
-Martin et Olivier Bouygues,Personne physique,1,28,,,,
-Bouygues,Personne morale,2,,,,,
-Groupe TF1,Personne morale,2,,,,,
-TF1,Média,3,,Télévision,,,Gratuit
-TFX,Média,3,,Télévision,,,Gratuit
-LCI,Média,3,,Télévision,,,Gratuit
-TF1 Séries Films,Média,3,,Télévision,,,Gratuit
-TMC,Média,3,,Télévision,,,Gratuit
-République française,État,4,,,,,
-République fédérale d’Allemagne,État,4,,,,,
-Renault,Personne morale,2,,,,,
-La Chaîne parlementaire,Média,3,,Télévision,,,Gratuit
-Public Sénat,Média,3,,Télévision,,,Gratuit
-France Médias Monde,Personne morale,2,,,,,
-France Télévision,Personne morale,2,,,,,
-Radio France,Personne morale,2,,,,,
-Arte France,Personne morale,2,,,,,
-Monte Carlo Doualiya,Média,3,,Radio,,International,
-Radio France International,Média,3,,Radio,,International,
-France 24,Média,3,,Télévision,,International,
-TV5 Monde,Média,3,,Télévision,,International,
-France 2,Média,3,,Télévision,,,Gratuit
-France 3,Média,3,,Télévision,,,Gratuit
-France 5,Média,3,,Télévision,,,Gratuit
-France 4,Média,3,,Télévision,,,Gratuit
-France Ô,Média,3,,Télévision,,,Gratuit
-France info,Média,3,,Télévision/radio,,,Gratuit
-France Inter,Média,3,,Radio,,National,
-France Musique,Média,3,,Radio,,National,
-France Culture,Média,3,,Radio,,National,
-FIP,Média,3,,Radio,,National,
-France Bleu,Média,3,,Radio,,National,
-France Info,Média,3,,Radio,,National,
-Mouv',Média,3,,Radio,,National,
-Arte,Média,3,,Télévision,,,Gratuit
-ARD / ZDF,Personne morale,2,,,,,
-Arte Deutschland TV GmbH,Personne morale,2,,,,,
-Les Augustins de l’Assomption,Personne morale,2,,,,,
-Bayard,Personne morale,2,,,,,
-La Croix,Média,3,,GPE,Quotidien,,
-Pèlerin,Média,3,,GPE,Hebdomadaire,,
-Notre temps,Média,3,,GPE,Mensuel,,
-Jean-Paul Baudecroux,Personne physique,1,178,,,,
-NRJ Group,Personne morale,2,,,,,
-NRJ 12,Média,3,,Télévision,,,Gratuit
-Chérie 25,Média,3,,Télévision,,,
-NRJ,Média,3,,Radio,,National,
-Rire et Chansons,Média,3,,Radio,,National,
-Chérie FM,Média,3,,Radio,,National,
-Nostalgie,Média,3,,Radio,,National,
-Famille Hutin,Personne physique,1,,,,,
-Famille Hurbain,Personne physique,1,105,,,,
-Crédit Agricole Nord de France,Personne morale,2,,,,,
-Association pour le soutien des principes de la démocratie humaniste,Personne morale,2,,,,,
-Groupe SIPA - Ouest,Personne morale,2,,,,,
-Ouest France,Média,3,,Régional,Quotidien,Régional,
-Le Courrier de l'Ouest,Média,3,,Régional,Quotidien,Régional,
-Le Maine libre,Média,3,,Régional,Quotidien,Régional,
-Presse-Océan,Média,3,,Régional,Quotidien,Régional,
-La Presse de la Manche,Média,3,,Régional,Quotidien,Régional,
-Publi Hebdos,Média,3,,Régional,Quotidien et hebdomadaire,Régional,
-Sofiouest,Personne morale,2,,,,,
-20 Minutes,Média,3,,GPE,Quotidien,,
-Groupe Rossel,Personne morale,2,,,,,
-Groupe Rossel La Voix,Personne morale,2,,,,,
-La Voix du Nord SA,Personne morale,2,,,,,
-La Voix du Nord,Média,3,,Régional,Quotidien,Régional,
-Nord éclair,Média,3,,Régional,Quotidien,Régional,
-Nord Littoral,Média,3,,Régional,Quotidien,Régional,
-Courrier picard,Média,3,,Régional,Quotidien,Régional,
-L'aisne Nouvelle,Média,3,,Régional,Quotidien,Régional,
-L'Union - L'Ardennais,Média,3,,Régional,Quotidien,Régional,
-L'Est-éclair - Libération Champagne,Média,3,,Régional,Quotidien,Régional,
-L'Avenir de l'Artois,Média,3,,Régional,Hebdomadaire,Régional,
-Les Echos du Touquet,Média,3,,Régional,Hebdomadaire,Régional,
-Le Journal des Flandres,Média,3,,Régional,Hebdomadaire,Régional,
-Le Messager,Média,3,,Régional,Hebdomadaire,Régional,
-L'Essor savoyard,Média,3,,Régional,Hebdomadaire,Régional,
-Le Pays gessien,Média,3,,Régional,Hebdomadaire,Régional,
-La Tribune républicaine,Média,3,,Régional,Hebdomadaire,Régional,
-La Savoie,Média,3,,Régional,Hebdomadaire,Régional,
-Le Phare Dunkerquois,Média,3,,Régional,Hebdomadaire,Régional,
-La Semaine dans le Boulonnais,Média,3,,Régional,Hebdomadaire,Régional,
-Le Réveil de Berck,Média,3,,Régional,Hebdomadaire,Régional,
-Le Journal de Montreuil,Média,3,,Régional,Hebdomadaire,Régional,
-L'indicateur,Média,3,,Régional,Hebdomadaire,Régional,
-L'Echo de la Lys,Média,3,,Régional,Hebdomadaire,Régional,
-Crédit Mutuel,Personne morale,2,,,,,
-Groupe EBRA,Personne morale,2,,,,,
-L'Est républicain,Média,3,,Régional,Quotidien,Régional,
-Le Républicain lorrain,Média,3,,Régional,Quotidien,Régional,
-DNA,Média,3,,Régional,Quotidien,Régional,
-Vosges Matin,Média,3,,Régional,Quotidien,Régional,
-L'Alsace,Média,3,,Régional,Quotidien,Régional,
-Le Bien public,Média,3,,Régional,Quotidien,Régional,
-Le Journal de Saône-et-Loire,Média,3,,Régional,Quotidien,Régional,
-Le Progrès,Média,3,,Régional,Quotidien,Régional,
-Le Dauphiné libéré,Média,3,,Régional,Quotidien,Régional,
-Vaucluse Matin,Média,3,,Régional,Quotidien,Régional,
-Le Journal de la Haute-Marne,Média,3,,Régional,Quotidien,Régional,
-Fondation Varenne,Personne morale,2,,,,,
-Famille Saint-Cricq,Personne physique,1,,,,,
-Groupe La Montagne,Personne morale,2,,,,,
-La Montagne,Média,3,,Régional,Quotidien,Régional,
-Le Populaire du centre,Média,3,,Régional,Quotidien,Régional,
-Le Journal du centre,Média,3,,Régional,Quotidien,Régional,
-Le Berry républicain,Média,3,,Régional,Quotidien,Régional,
-L’Yonne Républicaine,Média,3,,Régional,Quotidien,Régional,
-L’Echo Républicain,Média,3,,Régional,Quotidien,Régional,
-Courrier du Loiret,Média,3,,Régional,Hebdomadaire,Régional,
-L’Eclaireur du Gâtinais,Média,3,,Régional,Hebdomadaire,Régional,
-Régional de Cosne,Média,3,,Régional,Hebdomadaire,Régional,
-L’Echo Charitois,Média,3,,Régional,Hebdomadaire,Régional,
-Pays Roannais,Média,3,,Régional,Hebdomadaire,Régional,
-La Liberté,Média,3,,Régional,Hebdomadaire,Régional,
-Journal de Gien,Média,3,,Régional,Hebdomadaire,Régional,
-La République du Centre,Média,3,,Régional,Quotidien,Régional,
-Groupe NRCO,Personne morale,2,,,,,
-Nouvelle République du Centre,Média,3,,Régional,Quotidien,Régional,
-Centre Presse,Média,3,,Régional,Quotidien,Régional,
-TV Tours,Média,3,,Régional,,Régional,Télévision
-Famille Baylet,Personne physique,1,,,,,
-Groupe La Dépêche,Personne morale,2,,,,,
-La Dépêche du midi,Média,3,,Régional,Quotidien,Régional,
-Le Petit Bleu,Média,3,,Régional,Quotidien,Régional,
-La Nouvelle République des Pyrénées,Média,3,,Régional,Quotidien,Régional,
-Le Villefranchois,Média,3,,Régional,Hebdomadaire,Régional,
-La Gazette du Comminges,Média,3,,Régional,Hebdomadaire,Régional,
-Les Journaux du midi,Personne morale,2,,,,,
-Midi libre,Média,3,,Régional,Quotidien,Régional,
-L'Indépendant,Média,3,,Régional,Quotidien,Régional,
-Centre Presse Aveyron,Média,3,,Régional,Quotidien,Régional,
-Famille Lemoine,Personne physique,1,,,,,
-Groupe Sud Ouest,Personne morale,2,,,,,
-Sud Ouest,Média,3,,Régional,Quotidien,Régional,
-Charente Libre,Média,3,,Régional,Quotidien,Régional,
-Dordogne Libre,Média,3,,Régional,Quotidien,Régional,
-Haute Saintonge,Média,3,,Régional,Hebdomadaire,Régional,
-Haute Gironde,Média,3,,Régional,Hebdomadaire,Régional,
-Le Résistant,Média,3,,Régional,Hebdomadaire,Régional,
-L'Hebdo de Charente-Maritime,Média,3,,Régional,Hebdomadaire,Régional,
-La Dépêche du Bassin,Média,3,,Régional,Hebdomadaire,Régional,
-Le Journal du Médoc,Média,3,,Régional,Hebdomadaire,Régional,
-Pyrénées Presse,Personne morale,2,,,,,
-La République des Pyrénées,Média,3,,Régional,Quotidien,Régional,
-L'Eclair,Média,3,,Régional,Quotidien,Régional,
-Édouard Coudurier,Personne physique,1,,,,,
-Groupe Télégramme,Personne morale,2,,,,,
-Le Télégramme,Média,3,,Régional,Quotidien,Régional,
-Le Poher,Média,3,,Régional,Quotidien,Régional,
-Tébéo,Média,3,,Régional,,Régional,Télévision
-Tébésud,Média,3,,Régional,,Régional,Télévision
-Le Mensuel de Rennes,Média,3,,Régional,Mensuel,Régional,
-Sept Jours à Brest,Média,3,,Régional,Hebdomadaire,Régional,
-Le Journal des entreprises,Média,3,,Régional,Mensuel,Régional,
-Bretagne magazine,Média,3,,Régional,Hebdomadaire,Régional,
-Bernard Tapie,Personne physique,1,,,,,
-Nethys,Personne morale,2,,,,,
-Publifin,Personne morale,2,,,,,
-Province de Liège,État,4,,,,,
-Groupe La Provence,Personne morale,2,,,,,
-Nice-Matin,Média,3,,Régional,Quotidien,Régional,
-Corse Matin,Média,3,,Régional,Quotidien,Régional,
-La Provence,Média,3,,Régional,Quotidien,Régional,
-Jean-Louis Louvel,Personne physique,1,,,,,
-Société Normande d’Information et de Communication,Personne morale,2,,,,,
-Paris-Normandie,Média,3,,Régional,Quotidien,Régional,
-Havre Libre,Média,3,,Régional,Quotidien,Régional,
-Le Progrès de Fécamp,Média,3,,Régional,Quotidien,Régional,
-Liberté Dimanche,Média,3,,Régional,Hebdomadaire,Régional,
-Havre Dimanche,Média,3,,Régional,Hebdomadaire,Régional,
-Normandie Dimanche,Média,3,,Régional,Hebdomadaire,Régional,
-Philippe Hersant,Personne physique,1,,,,,
-Éditions Suisses Holding,Personne morale,2,,,,,
-Groupe Hersant Média,Personne morale,2,,,,,
-Groupe Filanosa,Personne morale,2,,,,,
-Rhône Média,Personne morale,2,,,,,
-La Côte (Nyon),Média,3,,Suisse,,,
-L'Express (Neuchâtel),Média,3,,Suisse,,,
-L'Impartial (La Chaux-de-Fonds),Média,3,,Suisse,,,
-Le Nouvelliste,Média,3,,Suisse,,,
-La Gazette de Martigny,Média,3,,Suisse,,,
-Le Journal de Sierre,Média,3,,Suisse,,,
-France Antilles,Média,3,,Régional,Quotidien,Régional,
-France Guyane,Média,3,,Régional,Quotidien,Régional,
-Abdoul Cadjee,Personne physique,1,,,,,
-Le Journal de l'Île de la Réunion,Média,3,,Régional,Quotidien,Régional,
-Benjamin et Ariane de Rothschild,Personne physique,1,21,,,,
-Lampsane Investissement SA,Personne morale,2,,,,,
-Slate.fr,Média,3,,Site,,,Pure player
-Jean-Sébastien Ferjou,Personne physique,1,,,,,
-Pierre Guyot,Personne physique,1,,,,,
-Gérard Lignac,Personne physique,1,,,,,
-Atlantico.fr,Média,3,,Site,,,Pure player
-Franck Julien,Personne physique,1,132,,,,
-Edi Invest,Personne morale,2,,,,,
-Jean Christophe Tortora,Personne physique,1,,,,,
-Laurent Alexandre,Personne physique,1,,,,,
-Hima Groupe,Personne morale,2,,,,,
-La Tribune,Média,3,,Site,,,
-i24 News,Média,3,,Télévision,,,
-Elle,Média,3,,,Hebdomadaire,Féminin,
-Le Nouveau Magazine littéraire,Média,3,,GPE,Mensuel,,
+@Etat #label,typeLibelle,commentaire,,,
+Province de Liège,État,,,,
+République fédérale d’Allemagne,État,,,,
+République française,État,,,,
+,,,,,
+@Média:  #label,typeLibelle,commentaire,mediaType,mediaPeriodicite,mediaEchelle
+20 Minutes,Média,,GPE,Quotidien,
+6ter,Média,Gratuit,Télévision,,
+Arte,Média,Gratuit,Télévision,,
+Atlantico.fr,Média,Pure player,Site,,
+Aujourd'hui en France,Média,,GPE,Quotidien,
+BFM Business,Média,,Radio,,National
+BFM TV,Média,Gratuit,Télévision,,
+Bretagne magazine,Média,,Régional,Hebdomadaire,Régional
+C8,Média,Gratuit,Télévision,,
+Canal +,Média,Semi-payant,Télévision,,
+Capital,Média,,GPE,Mensuel,
+Centre Presse,Média,,Régional,Quotidien,Régional
+Centre Presse Aveyron,Média,,Régional,Quotidien,Régional
+Challenges,Média,,GPE,Hebdomadaire,
+Charente Libre,Média,,Régional,Quotidien,Régional
+Chérie 25,Média,,Télévision,,
+Chérie FM,Média,,Radio,,National
+CNews,Média,Gratuit,Télévision,,
+CNews matin,Média,,GPE,Quotidien,
+Corse Matin,Média,,Régional,Quotidien,Régional
+Courrier du Loiret,Média,,Régional,Hebdomadaire,Régional
+Courrier international,Média,,GPE,Hebdomadaire,
+Courrier picard,Média,,Régional,Quotidien,Régional
+CStar,Média,Gratuit,Télévision,,
+DNA,Média,,Régional,Quotidien,Régional
+Dordogne Libre,Média,,Régional,Quotidien,Régional
+Elle,Média,,,Hebdomadaire,Féminin
+Europe 1,Média,,Radio,,National
+Figaro Magazine,Média,,GPE,Hebdomadaire,
+FIP,Média,,Radio,,National
+France 2,Média,Gratuit,Télévision,,
+France 24,Média,,Télévision,,International
+France 3,Média,Gratuit,Télévision,,
+France 4,Média,Gratuit,Télévision,,
+France 5,Média,Gratuit,Télévision,,
+France Antilles,Média,,Régional,Quotidien,Régional
+France Bleu,Média,,Radio,,National
+France Culture,Média,,Radio,,National
+France Guyane,Média,,Régional,Quotidien,Régional
+France info,Média,Gratuit,Télévision/radio,,
+France Info,Média,,Radio,,National
+France Inter,Média,,Radio,,National
+France Musique,Média,,Radio,,National
+France Ô,Média,Gratuit,Télévision,,
+Fun Radio,Média,,Radio,National,
+Gulli,Média,Gratuit,Télévision,,
+Harvard Business Review,Média,,GPE,Bimestriel,
+Haute Gironde,Média,,Régional,Hebdomadaire,Régional
+Haute Saintonge,Média,,Régional,Hebdomadaire,Régional
+Havre Dimanche,Média,,Régional,Hebdomadaire,Régional
+Havre Libre,Média,,Régional,Quotidien,Régional
+Historia,Média,,GPE,Mensuel,
+Huffingtonpost.fr,Média,Pure player,Site,,
+i24 News,Média,,Télévision,,
+Investir,Média,,GPE,Hebdomadaire,
+Investir Magazine,Média,,GPE,Mensuel,
+Journal de Gien,Média,,Régional,Hebdomadaire,Régional
+L'Agefi hebdo,Média,,GPE,Hebdomadaire,
+L'aisne Nouvelle,Média,,Régional,Quotidien,Régional
+L'Alsace,Média,,Régional,Quotidien,Régional
+L'Avenir de l'Artois,Média,,Régional,Hebdomadaire,Régional
+L'Echo de la Lys,Média,,Régional,Hebdomadaire,Régional
+L'Eclair,Média,,Régional,Quotidien,Régional
+L'Essor savoyard,Média,,Régional,Hebdomadaire,Régional
+L'Est républicain,Média,,Régional,Quotidien,Régional
+L'Est-éclair - Libération Champagne,Média,,Régional,Quotidien,Régional
+L'Express,Média,,GPE,Hebdomadaire,
+L'Express (Neuchâtel),Média,,Suisse,,
+L'Hebdo de Charente-Maritime,Média,,Régional,Hebdomadaire,Régional
+L'histoire,Média,,GPE,Mensuel,
+L'Impartial (La Chaux-de-Fonds),Média,,Suisse,,
+L'Indépendant,Média,,Régional,Quotidien,Régional
+L'indicateur,Média,,Régional,Hebdomadaire,Régional
+L'Obs,Média,,GPE,Hebdomadaire,
+L'Opinion,Média,,GPE,Quotidien,
+L'Union - L'Ardennais,Média,,Régional,Quotidien,Régional
+L’Echo Charitois,Média,,Régional,Hebdomadaire,Régional
+L’Echo Républicain,Média,,Régional,Quotidien,Régional
+L’Eclaireur du Gâtinais,Média,,Régional,Hebdomadaire,Régional
+L’Yonne Républicaine,Média,,Régional,Quotidien,Régional
+La Chaîne parlementaire,Média,Gratuit,Télévision,,
+La Côte (Nyon),Média,,Suisse,,
+La Croix,Média,,GPE,Quotidien,
+La Dépêche du Bassin,Média,,Régional,Hebdomadaire,Régional
+La Dépêche du midi,Média,,Régional,Quotidien,Régional
+La Gazette de Martigny,Média,,Suisse,,
+La Gazette du Comminges,Média,,Régional,Hebdomadaire,Régional
+La Lettre de l'Expansion,Média,,GPE,Mensuel,
+La Liberté,Média,,Régional,Hebdomadaire,Régional
+La Montagne,Média,,Régional,Quotidien,Régional
+La Nouvelle République des Pyrénées,Média,,Régional,Quotidien,Régional
+La Presse de la Manche,Média,,Régional,Quotidien,Régional
+La Provence,Média,,Régional,Quotidien,Régional
+La République des Pyrénées,Média,,Régional,Quotidien,Régional
+La République du Centre,Média,,Régional,Quotidien,Régional
+La Savoie,Média,,Régional,Hebdomadaire,Régional
+La Semaine dans le Boulonnais,Média,,Régional,Hebdomadaire,Régional
+La Tribune,Média,,Site,,
+La Tribune républicaine,Média,,Régional,Hebdomadaire,Régional
+La Vie,Média,,GPE,Hebdomadaire,
+La Voix du Nord,Média,,Régional,Quotidien,Régional
+LCI,Média,Gratuit,Télévision,,
+Le Berry républicain,Média,,Régional,Quotidien,Régional
+Le Bien public,Média,,Régional,Quotidien,Régional
+Le Courrier de l'Ouest,Média,,Régional,Quotidien,Régional
+Le Dauphiné libéré,Média,,Régional,Quotidien,Régional
+Le Figaro,Média,,GPE,Quotidien,
+Le Journal de l'Île de la Réunion,Média,,Régional,Quotidien,Régional
+Le Journal de la Haute-Marne,Média,,Régional,Quotidien,Régional
+Le Journal de Montreuil,Média,,Régional,Hebdomadaire,Régional
+Le Journal de Saône-et-Loire,Média,,Régional,Quotidien,Régional
+Le Journal de Sierre,Média,,Suisse,,
+Le Journal des entreprises,Média,,Régional,Mensuel,Régional
+Le Journal des Flandres,Média,,Régional,Hebdomadaire,Régional
+Le Journal du centre,Média,,Régional,Quotidien,Régional
+Le Journal du dimanche,Média,,GPE,Hebdomaire,
+Le Journal du Médoc,Média,,Régional,Hebdomadaire,Régional
+Le Maine libre,Média,,Régional,Quotidien,Régional
+Le Mensuel de Rennes,Média,,Régional,Mensuel,Régional
+Le Messager,Média,,Régional,Hebdomadaire,Régional
+Le Monde,Média,,GPE,Hebdomadaire,
+Le Monde des religions,Média,,GPE,Mensuel,
+Le Monde diplomatique,Média,,GPE,Mensuel,
+Le Nouveau Magazine littéraire,Média,,GPE,Mensuel,
+Le Nouvelliste,Média,,Suisse,,
+Le Parisien,Média,,GPE,Quotidien,
+Le Parisien économie,Média,,GPE,Hebdomadaire,
+Le Parisien Week-End,Média,,GPE,Hebdomadaire,
+Le Particulier,Média,,GPE,Mesuel,
+Le Pays gessien,Média,,Régional,Hebdomadaire,Régional
+Le Petit Bleu,Média,,Régional,Quotidien,Régional
+Le Phare Dunkerquois,Média,,Régional,Hebdomadaire,Régional
+Le Poher,Média,,Régional,Quotidien,Régional
+Le Point,Média,,GPE,Hebdomadaire,
+Le Populaire du centre,Média,,Régional,Quotidien,Régional
+Le Progrès,Média,,Régional,Quotidien,Régional
+Le Progrès de Fécamp,Média,,Régional,Quotidien,Régional
+Le Républicain lorrain,Média,,Régional,Quotidien,Régional
+Le Résistant,Média,,Régional,Hebdomadaire,Régional
+Le Réveil de Berck,Média,,Régional,Hebdomadaire,Régional
+Le Télégramme,Média,,Régional,Quotidien,Régional
+Le Villefranchois,Média,,Régional,Hebdomadaire,Régional
+Les Échos,Média,,GPE,Quotidien,
+Les Echos du Touquet,Média,,Régional,Hebdomadaire,Régional
+Les Échos Week-End,Média,,GPE,Hebdomadaire,
+Les Inrockuptibles,Média,,GPE,Hebdomadaire,
+Libération,Média,,GPE,Quotidien,
+Liberté Dimanche,Média,,Régional,Hebdomadaire,Régional
+M, le magazine du Monde,Média,,GPE,Hebdomadaire,
+M6,Média,Gratuit,Télévision,,
+Management,Média,,GPE,Mensuel,
+Manière de voir,Média,,GPE,Bimestriel,
+Marianne,Média,,GPE,Hebdomadaire,
+Midi libre,Média,,Régional,Quotidien,Régional
+Mieux vivre votre argent,Média,,GPE,Mensuel,
+Monte Carlo Doualiya,Média,,Radio,,International
+Mouv',Média,,Radio,,National
+Nice-Matin,Média,,Régional,Quotidien,Régional
+Nord éclair,Média,,Régional,Quotidien,Régional
+Nord Littoral,Média,,Régional,Quotidien,Régional
+Normandie Dimanche,Média,,Régional,Hebdomadaire,Régional
+Nostalgie,Média,,Radio,,National
+Notre temps,Média,,GPE,Mensuel,
+Nouvelle République du Centre,Média,,Régional,Quotidien,Régional
+NRJ,Média,,Radio,,National
+NRJ 12,Média,Gratuit,Télévision,,
+Numéro 23,Média,Gratuit,Télévision,,
+Ouest France,Média,,Régional,Quotidien,Régional
+Paris Match,Média,,GPE,Hebdomaire,
+Paris-Normandie,Média,,Régional,Quotidien,Régional
+Pays Roannais,Média,,Régional,Hebdomadaire,Régional
+Pèlerin,Média,,GPE,Hebdomadaire,
+Point de vue,Média,,GPE,Hebdomadaire,
+Presse-Océan,Média,,Régional,Quotidien,Régional
+Prier,Média,,GPE,Mensuel,
+Publi Hebdos,Média,,Régional,Quotidien et hebdomadaire,Régional
+Public Sénat,Média,Gratuit,Télévision,,
+Radio Classique,Média,,Radio,National,
+Radio France International,Média,,Radio,,International
+Radio Nova,Média,,Radio,,National
+Régional de Cosne,Média,,Régional,Hebdomadaire,Régional
+RFM,Média,,Radio,,National
+Rire et Chansons,Média,,Radio,,National
+RMC,Média,,Radio,,National
+RMC Découverte,Média,Gratuit,Télévision,,
+RTL,Média,,Radio,National,
+RTL2,Média,,Radio,National,
+Sciences & Avenir,Média,,GPE,Mensuel,
+Sept Jours à Brest,Média,,Régional,Hebdomadaire,Régional
+Slate.fr,Média,Pure player,Site,,
+Sud Ouest,Média,,Régional,Quotidien,Régional
+Tébéo,Média,Télévision,Régional,,Régional
+Tébésud,Média,Télévision,Régional,,Régional
+Télérama,Média,,GPE,Mensuel,
+TF1,Média,Gratuit,Télévision,,
+TF1 Séries Films,Média,Gratuit,Télévision,,
+TFX,Média,Gratuit,Télévision,,
+TMC,Média,Gratuit,Télévision,,
+TV Tours,Média,Télévision,Régional,,Régional
+TV5 Monde,Média,,Télévision,,International
+Valeurs actuelles,Média,,GPE,Hebdomadaire,
+Vaucluse Matin,Média,,Régional,Quotidien,Régional
+Vice.com,Média,Pure player,Site,,
+Virgin Radio,Média,,Radio,,National
+Vosges Matin,Média,,Régional,Quotidien,Régional
+VSD,Média,,GPE,Mensuel,
+W9,Média,Gratuit,Télévision,,
+,,,,,
+@Personne morale: #label,typeLibelle,Commentaire,rang_challenge,,
+Altice,Personne morale,,,,
+Altice France,Personne morale,,361,,
+AOL,Personne morale,,21,,
+ARD / ZDF,Personne morale,,1,,
+Arte Deutschland TV GmbH,Personne morale,,,,
+Arte France,Personne morale,,359,,
+Artémis,Personne morale,,5,,
+Association Günter-Holzmann,Personne morale,,,,
+Association pour le soutien des principes de la démocratie humaniste,Personne morale,,,,
+Bayard,Personne morale,,4,,
+Bertelsmann,Personne morale,,7,,
+Bolloré,Personne morale,,105,,
+Bouygues,Personne morale,,,,
+Crédit Agricole Nord de France,Personne morale,,,,
+Crédit Mutuel,Personne morale,,39,,
+Czech Media Invest,Personne morale,,,,
+Edi Invest,Personne morale,,132,,
+Éditions Suisses Holding,Personne morale,,6,,
+Financière de l‘Odet,Personne morale,,,,
+Fondation Varenne,Personne morale,,,,
+France Médias Monde,Personne morale,,81,,
+France Télévision,Personne morale,,,,
+Ghosn Capital,Personne morale,,,,
+Groupe Dassault,Personne morale,,178,,
+Groupe EBRA,Personne morale,,,,
+Groupe Figaro,Personne morale,,,,
+Groupe Filanosa,Personne morale,,28,,
+Groupe Hersant Média,Personne morale,,,,
+Groupe L’Agefi,Personne morale,,,,
+Groupe La Dépêche,Personne morale,,12,,
+Groupe La Montagne,Personne morale,,,,
+Groupe La Provence,Personne morale,,,,
+Groupe Les Échos,Personne morale,,11,,
+Groupe M6,Personne morale,,13,,
+Groupe NRCO,Personne morale,,,,
+Groupe Perdriel,Personne morale,,,,
+Groupe Rossel,Personne morale,,,,
+Groupe Rossel La Voix,Personne morale,,,,
+Groupe Sebdo-Le Point,Personne morale,,,,
+Groupe SIPA - Ouest,Personne morale,,,,
+Groupe Sud Ouest,Personne morale,,,,
+Groupe Télégramme,Personne morale,,,,
+Groupe TF1,Personne morale,,,,
+Groupe Valmonde,Personne morale,,,,
+Gruner + Jahr,Personne morale,,,,
+Hima Groupe,Personne morale,,,,
+Huffington Post,Personne morale,,,,
+La Voix du Nord SA,Personne morale,,,,
+Lagardère Active,Personne morale,,,,
+Lagardère SCA,Personne morale,,,,
+Lampsane Investissement SA,Personne morale,,,,
+Le Monde libre,Personne morale,,,,
+Le Monde SA,Personne morale,,,,
+Le Nouveau Monde,Personne morale,,,,
+Les Amis du Monde diplomatique,Personne morale,,,,
+Les Augustins de l’Assomption,Personne morale,,,,
+Les Journaux du midi,Personne morale,,,,
+Les Nouvelles Éditions,Personne morale,,,,
+Les Nouvelles Éditions indépendantes,Personne morale,,,,
+LVMH,Personne morale,,,,
+Nethys,Personne morale,,,,
+NextRadioTV,Personne morale,,,,
+NRJ Group,Personne morale,,,,
+Prisa,Personne morale,,,,
+Prisma Media,Personne morale,,,,
+Privinvest,Personne morale,,,,
+Publifin,Personne morale,,,,
+Pyrénées Presse,Personne morale,,,,
+Qatar Investment Authority,Personne morale,,,,
+Radio France,Personne morale,,,,
+Renault,Personne morale,,,,
+Rhône Média,Personne morale,,,,
+RTL Group,Personne morale,,,,
+Société Normande d’Information et de Communication,Personne morale,,,,
+Sofiouest,Personne morale,,,,
+Sophia Publications,Personne morale,,,,
+Vivendi,Personne morale,,,,
+,,,,,
+Personne physique,typeLibelle,Commentaire,rang_challenge,,
+Abdoul Cadjee,Personne physique,,,,
+Arnaud Lagardère,Personne physique,,361,,
+Benjamin et Ariane de Rothschild,Personne physique,,21,,
+Bernard Arnault,Personne physique,,1,,
+Bernard Tapie,Personne physique,,,,
+Claude Perdriel,Personne physique,,359,,
+Daniel Křetínský,Personne physique,Pour la République tchèque (Daniel Křetínský) : Forbes 2018,5,,
+Édouard Coudurier,Personne physique,,,,
+Famille Baylet,Personne physique,,,,
+Famille Bettencourt,Personne physique,,4,,
+Famille Dassault,Personne physique,,7,,
+Famille Hurbain,Personne physique,,105,,
+Famille Hutin,Personne physique,,,,
+Famille Lemoine,Personne physique,,,,
+Famille Mohn,Personne physique,,39,,
+Famille Saint-Cricq,Personne physique,,,,
+Franck Julien,Personne physique,,132,,
+François Pinault,Personne physique,,6,,
+Georges Ghosn,Personne physique,,,,
+Gérard Lignac,Personne physique,,,,
+Iskandar Safa,Personne physique,,81,,
+Jean Christophe Tortora,Personne physique,,,,
+Jean-Louis Louvel,Personne physique,,,,
+Jean-Paul Baudecroux,Personne physique,,178,,
+Jean-Sébastien Ferjou,Personne physique,,,,
+Laurent Alexandre,Personne physique,,,,
+Martin et Olivier Bouygues,Personne physique,,28,,
+Matthieu Pigasse,Personne physique,,,,
+Nicolas Beytout,Personne physique,,,,
+Patrick Drahi,Personne physique,,12,,
+Philippe Hersant,Personne physique,,,,
+Pierre Guyot,Personne physique,,,,
+Vincent Bolloré,Personne physique,,11,,
+Xavier Niel,Personne physique,,13,,
+Yves de Chaisemartin,Personne physique,,,,
 
