@@ -2,17 +2,21 @@
 
 # Explorer les medias francais v0
 
-load csv with botapad https://github.com/padagraph/botapadd
+[explorer le graph](https://botapad.padagraph.io/import/igraph.html?bgcolor=EEE&s=https://raw.githubusercontent.com/ynnk/Medias_francais/master/graph.md&vtx_size=1)
 
 ![padagraph.io](https://i.imgur.com/XPbOwzfl.png)
 
 #### files
+
 * **./graph.md**  data composer
 * **./medias_francais.csv**  entités 
 * **./relations_medias_francais.csv** relations non pondérés
 
 #### Explorer le graph 
 
+* **botapad parser source**  
+https://github.com/padagraph/botapadd  
+* **online parser**   
 https://botapad.padagraph.io/import/igraph.html?bgcolor=EEE&s=https://raw.githubusercontent.com/ynnk/Medias_francais/master/graph.md&vtx_size=1
 
 
