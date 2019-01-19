@@ -1,3 +1,7 @@
+
+! Convertion des propriétés typeLibelle en type de noeud
+
+
 @Etat: #label,typeLibelle,commentaire,,,
 Province de Liège,État,,,,
 République fédérale d’Allemagne,État,,,,
