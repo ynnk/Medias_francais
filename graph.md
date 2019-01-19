@@ -2,7 +2,7 @@
 
 
 
-& https://calc.padagraph.io/crepuscule-medias
+!& https://calc.padagraph.io/crepuscule-medias
 
 & https://raw.githubusercontent.com/ynnk/Medias_francais/master/medias_francais.csv
 
