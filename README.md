@@ -1,3 +1,26 @@
+
+
+# Explorer les medias francais v0
+
+load csv with botapad https://github.com/padagraph/botapadd
+
+![padagraph.io](https://i.imgur.com/XPbOwzfl.png)
+
+
+https://botapad.padagraph.io/import/igraph.html?bgcolor=EEE&s=https://raw.githubusercontent.com/ynnk/Medias_francais/master/graph.md&vtx_size=1
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Médias français : qui possède quoi ?
 **Relations de propriété entre les médias français et leurs principaux actionnaires**
 
