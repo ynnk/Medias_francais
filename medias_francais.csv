@@ -1,4 +1,4 @@
-@groupe_personne: #label,%typeLibelle,typeCode,rangChallenges,mediaType,mediaPeriodicite,mediaEchelle,commentaire
+@Goupe_personne: #label,%typeLibelle,typeCode,rangChallenges,mediaType,mediaPeriodicite,mediaEchelle,commentaire
 Claude Perdriel,Personne physique,1,359,,,,
 Sophia Publications,Personne morale,2,,,,,
 Groupe Perdriel,Personne morale,2,,,,,
